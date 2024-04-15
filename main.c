@@ -3,6 +3,6 @@ int main() {
 	printf("Hellogithub");
 	int a;
 	scanf("%d", &a);
-	a += 4;
+	a /= 4;
 	printf("%d",a);
 }
