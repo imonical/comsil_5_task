@@ -4,5 +4,7 @@ int main() {
 	int a;
 	scanf("%d", &a);
 	a += 2;
+	printf("Hellogithub");
+	printf("Hellogithub");
 	printf("%d",a);
 }
