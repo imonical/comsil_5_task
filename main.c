@@ -2,7 +2,7 @@
 int main() {
 	printf("Hellogithub");
 	int a;
-	scanf(%d, &a);
+	scanf("%d", &a);
 	a += 3;
-	printf(a);
+	printf("%d",a);
 }
